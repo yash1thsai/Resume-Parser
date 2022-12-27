@@ -5,4 +5,4 @@ Agencies and various high-level firms must deal with a large number of new jobs 
 • Using natural language processing and optical character recognition to parse information from resume files. 
 • Python libraries, named entity recognition (NER), BERT NER and other ML based parsing techniques like keyword based & grammar based parsing techniques.
 
-install the required libraries and run.
+# install the required libraries and run.
